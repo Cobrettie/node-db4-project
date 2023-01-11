@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Cobrettie/node-db4-project#readme",
   "dependencies": {
-    "knex": "^0.21.1",
+    "knex": "^2.4.0",
     "sqlite3": "^4.2.0"
   }
 }
